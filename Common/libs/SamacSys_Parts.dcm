@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP 031-5431
+D BNC Right Angle PCB Jack Through Hole Bulkhead Rear Mount 50 Ohm
+K
+F https://www.amphenolrf.com/library/download/link/link_id/594435/parent/031-5431/?fbclid=IwZXh0bgNhZW0CMTEAAR2w3LtRKA1QKc3cNxgjO_q3AmU8s7i6XtcFB02xGOY8LTAobjKqMtJOAec_aem_vQtRmi8mg8o9nAKgw1-Z4A
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,23 @@
+# Ignore KiCad backup folder and its contents
+*-backups/
+*-backups/*
+
+# Ignore KiCad auto-saved and temporary files
+autosave-*
+*-autosave.*
+*autosaved_files*
+*.bck
+*.bak
+
+# Ignore KiCad cache files
+fp-info-cache
+fp-lib-table
+
+# Ignore generated output files (optional)
+#*.gbr
+#*.drl
+#*.nc
+#*.ger
+#*.csv
+#*.pos
+#*.rpt
