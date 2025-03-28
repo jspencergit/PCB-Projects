@@ -3,11 +3,12 @@
 *-backups/*
 
 # Ignore KiCad auto-saved and temporary files
-autosave-*
+_autosave-*
 *-autosave.*
 *autosaved_files*
 *.bck
 *.bak
+*.lck
 
 # Ignore KiCad cache files
 fp-info-cache
