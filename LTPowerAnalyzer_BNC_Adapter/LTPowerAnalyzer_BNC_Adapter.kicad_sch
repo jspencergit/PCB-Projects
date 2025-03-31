@@ -1383,7 +1383,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4d63dfc8-98dc-4d0f-b47b-f38f978b5dff")
-		(property "Reference" "J7"
+		(property "Reference" "J2"
 			(at 50.038 65.786 0)
 			(effects
 				(font
@@ -1399,7 +1399,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0315431"
+		(property "Footprint" "user_footprints:0315431"
 			(at 39.37 -32.69 0)
 			(effects
 				(font
@@ -1493,7 +1493,7 @@
 		(instances
 			(project "LTPowerAnalyzer_BNC_Adapter"
 				(path "/e2208708-0263-4261-ba55-a7849cd966f0"
-					(reference "J7")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -1508,7 +1508,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4fb9c9cd-b1af-4c9d-9531-d8382c5e8dc9")
-		(property "Reference" "J8"
+		(property "Reference" "J3"
 			(at 50.038 81.026 0)
 			(effects
 				(font
@@ -1524,7 +1524,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0315431"
+		(property "Footprint" "user_footprints:0315431"
 			(at 39.37 -17.45 0)
 			(effects
 				(font
@@ -1618,7 +1618,7 @@
 		(instances
 			(project "LTPowerAnalyzer_BNC_Adapter"
 				(path "/e2208708-0263-4261-ba55-a7849cd966f0"
-					(reference "J8")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -1633,7 +1633,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "781387ca-7148-4e4d-a3c7-b7eb52e329df")
-		(property "Reference" "J9"
+		(property "Reference" "J4"
 			(at 50.038 97.536 0)
 			(effects
 				(font
@@ -1649,7 +1649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0315431"
+		(property "Footprint" "user_footprints:0315431"
 			(at 39.37 -0.94 0)
 			(effects
 				(font
@@ -1743,7 +1743,7 @@
 		(instances
 			(project "LTPowerAnalyzer_BNC_Adapter"
 				(path "/e2208708-0263-4261-ba55-a7849cd966f0"
-					(reference "J9")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -1758,7 +1758,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8b0eb0e2-04a6-45ba-8e9a-5c83c31f55f3")
-		(property "Reference" "J6"
+		(property "Reference" "J1"
 			(at 50.038 50.546 0)
 			(effects
 				(font
@@ -1774,7 +1774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0315431"
+		(property "Footprint" "user_footprints:0315431"
 			(at 39.37 -47.93 0)
 			(effects
 				(font
@@ -1868,7 +1868,7 @@
 		(instances
 			(project ""
 				(path "/e2208708-0263-4261-ba55-a7849cd966f0"
-					(reference "J6")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -1950,7 +1950,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aba994e5-9325-482b-b78b-a6c0a06f33c2")
-		(property "Reference" "J1"
+		(property "Reference" "J5"
 			(at 159.004 71.12 0)
 			(effects
 				(font
@@ -2059,7 +2059,7 @@
 		(instances
 			(project ""
 				(path "/e2208708-0263-4261-ba55-a7849cd966f0"
-					(reference "J1")
+					(reference "J5")
 					(unit 1)
 				)
 			)
